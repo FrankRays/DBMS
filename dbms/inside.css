@@ -1,0 +1,122 @@
+#left
+	 {
+	  position:absolute;
+	  left:0px;
+	  top:250px;
+	  width:250px;
+	  height:350px;
+	 }
+#main
+	 {
+	  border-left:2px solid #003366;
+	  border-top:2px solid #003366;
+	  background-color:#F0F0F0;
+	  position:absolute;
+	  left:250px;
+	  top:100px;
+	  height: auto;
+	  min-height:525px;
+	  width:1100px;
+	  padding-left:20px;
+	  padding-top:20px;
+	  font-size:20px;
+	 }
+#logo
+	 {
+	  position:absolute;
+	  left:0px;
+	  top:0px;
+	  background-image:url(nitrkl.jpg);
+	  height:250px;
+	  width:250px;
+	  background-repeat:no-repeat;
+	  background-size:100%;
+	 }
+#top
+	{
+	 position:absolute;
+	 top:0px;
+	 left:250px;
+	 height:100px;
+	 width:auto;
+	 min-width:1120px;
+	 
+	 
+	}
+#cds {
+	color:#7C3632;
+	font-family:Lucida Handwriting;
+	text-align:right;
+}
+#para
+{
+	color:#7C3632;
+	font-family:Lucida Handwriting;
+}	
+a:link
+	  {
+	   color:red;
+	   font-family:myriad;
+	   text-decoration:none;
+	   font-size:20px;
+	  }
+a:hover
+	  {
+	   text-decoration:underline;
+	   color:green;
+	   font-size:20px;
+	  }
+a:active {
+	color:red;
+}		
+ul
+  {
+   list-style-image:url(open.jpg);
+  }
+#logot
+	 {
+	  position:absolute;
+	  left:900px;
+	  top:50px;
+		 
+	 }
+#date
+	 {
+	  position:absolute;
+	  left:10px;
+	  top:15px;
+	  
+	 }
+#welcome
+		{
+		 position:absolute;
+		 top:15px;
+		 left:400px;
+		 width:500px;
+		}
+#logout
+	   {
+	    background-color:#BBBBBB;
+		font-size:15px;
+		font-family:vedana;
+	   }
+#logout:hover
+			{
+			 background-color:#CED678;
+			 font-weight:bold;
+			 font-family:serif;
+			} 
+span
+	{
+	 color:#000099;
+	 font-size:25px;
+	 font-family:papyrus;
+	 font-weight:bold;
+	}
+p
+ {
+  margin:2px;
+  color:#00CC99;
+  font-size:25px;
+  font-family:dax;
+ }

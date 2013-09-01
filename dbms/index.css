@@ -1,0 +1,52 @@
+body{
+	background-color:#A7C7B4;
+}
+h1{
+TEXT-align:center; font-family:Monotype Corsiva; color:blue;min-width:750px;min-margin-left:100px
+}
+#center {
+	margin-top:30px;
+	margin-left:15%;
+	height:500px;
+	width:70%;
+	opacity:0.8;
+	background-color:white;
+	border:2px solid red;
+	min-width:750px;
+}
+#center #top {
+	font-weight:bold;
+	padding-top:15px;
+	padding-left:35px;
+	font-size:30px;
+	font-family:Monotype Corsiva;
+	padding-right:35px;
+}
+table {
+	border-spacing:20px 10px;
+}
+#center #left {
+	padding-left:40px;
+	float:left;
+}
+
+#submit {
+	background-color:pink;
+}
+#center #right{
+	background-image:url(nitrkl.jpg);
+	float:right;
+	height:500px;
+	width:300px;
+	margin-right:50px;
+	background-repeat:no-repeat;
+	background-size:100%;
+}
+a{
+  color:black;
+  text-decoration:none;
+  background-color:pink;
+}
+a:hover{
+	text-decoration:underline;
+}

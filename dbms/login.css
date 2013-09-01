@@ -1,0 +1,99 @@
+body
+	{
+	 background-color:#CCCCCC;
+	 background-size:100%;
+    }
+#outer
+	 {
+	  background-color:#EEEEEE;
+	  position:absolute;
+	  top:15%;
+	  left:13%;
+	  height:500px;
+	  width:1000px;	
+	  border-radius:20px;
+	  background-image:url(1.jpg);
+	  background-size:1000px 500px;
+     }
+#inner
+	 {
+	  border:3px solid white;
+  	  background-color:#222222;
+	  position:absolute;
+	  top:30%;
+	  left:30%;
+	  height:250px;
+	  width:400px;
+	  opacity:.7;
+	  border-radius:10px;
+	 }
+table
+	{
+	width:400px;
+	}
+#username
+		{
+		width:125px;
+		text-align:center;
+		border-top-left-radius:10px;
+		border:2px solid;
+		border-color:#606060;
+		font-size:20px;
+		background-color:#404040;
+		color:#E0E0E0;
+	   }
+#userid
+	  {
+	   background-color:#707070;
+	   width:265px;
+	   height:40px;
+	   border:none;
+	   font-size:20px;
+	   border-top-right-radius:10px;
+	  }
+#password
+		{
+		width:125px;
+		text-align:center;
+		border-bottom-left-radius:10px;
+		background-color:#404040;
+		color:#E0E0E0;
+		font-size:20px;
+		border:2px solid;
+		border-color:#606060;
+		}
+#passwrd
+		{
+		background-color:#707070;
+		width:265px;
+		height:40px;
+		border:none;
+		font-size:20px;
+		border-bottom-right-radius:10px;
+		}
+#submit
+		{
+		width:100%;
+		font-family:comic sans ms;
+		background-color:#33CC00;
+		height:50px;
+		font-size:20px;
+		color:white;
+		border-radius:10px;
+		text-align:center;
+		}
+		
+h1
+  {
+  font-family:Palatino;
+  color:white;
+  }
+h3
+  {
+   color:red;
+   margin:2px;
+   }
+a{
+  text-decoration:none;
+ }
+ 
